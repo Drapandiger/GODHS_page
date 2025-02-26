@@ -2,7 +2,7 @@
 
 ## Page link 
 
-- Link: [godhs.github.io](https://drapandiger.github.io/GODHS_page/)
+- Link: [drapandiger.github.io/GODHS_page/](https://drapandiger.github.io/GODHS_page/)
 
 ## Contact method 
 
