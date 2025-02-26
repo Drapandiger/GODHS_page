@@ -2,12 +2,12 @@
 
 ## Page link 
 
-- Link: [godhs.github.io]()
+- Link: [godhs.github.io](https://drapandiger.github.io/GODHS_page/)
 
 ## Contact method 
 
 If you have any questions or suggestions, please feel free to contact us via the following methods:
  
-- Email: [your.email@example.com]()
+- Email: [drapandiger@gmail.com](drapandiger@gmail.com)
 
 - GitHub Issue: Please submit an Issue in the repository
